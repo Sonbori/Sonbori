@@ -9,12 +9,12 @@
   
   <hr/>
 
-  <h3>❤️ I love...</h3>
+  <h3> I love</h3>
   <p>🎮 game, 🌍 travel, and topics related to AI, algorithms, and artificial intelligence</p>
   
   <hr/>
 
-  <h3>🔥 Tech Stack 🔥</h3>
+  <h3> Tech Stack </h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
     &nbsp;&nbsp;
