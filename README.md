@@ -49,9 +49,9 @@
 ---
 
 ## 🌍 Let's Connect
-- 💻 Portfolio: [sonbori.github.io](https://sonbori.github.io/)  
+- 💻 Portfolio: [sonbori.github.io](https://www.notion.so/PORTFOLIO-2357c390940480dfb7dbfd89597270b5)  
 - 📧 Email: thsqhrjs@email.com  
-- 🔗 LinkedIn: [Your LinkedIn](#)
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/%EB%B3%B4%EA%B1%B4-%EC%86%90-7a0118338/)
 
 ---
 ✨ *“Code is like magic — but real.”* ✨
