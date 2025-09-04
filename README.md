@@ -28,9 +28,15 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [**Game AI Bot**](#) – Reinforcement Learning 기반 게임 AI 봇  
-- 🔹 [**Image Classifier**](#) – PyTorch로 구현한 이미지 분류기  
-- 🔹 [**AI Portfolio Website**](https://sonbori.github.io/) – 개인 포트폴리오 사이트  
+
+### 📚 Learning & Research
+- 🔹 [**Vision Transformer (ViT) Study**](https://github.com/Sonbori/vision-transformer-VIT-) – Vision Transformer 아키텍처 학습 및 구현
+- 🔹 [**Deep Learning with PyTorch**](https://github.com/Sonbori/pytorch-deep-learning) – PyTorch 기반 딥러닝 학습 (fork & practice)
+
+### 💡 Personal Projects
+- 🔹 [**EmotiVibe**](https://github.com/Sonbori/emotivibe) – 감정 인식 기반 AI 프로젝트
+- 🔹 [**EST5 Water Quality Monitoring**](https://github.com/Sonbori/est5_water) – IoT & 센서 기반 수질 모니터링 프로젝트
+
 
 ---
 
