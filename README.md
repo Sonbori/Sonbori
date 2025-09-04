@@ -3,10 +3,6 @@
 # 🍀 Hi, I'm Sonbo 🍀  
 🎮 AI Enthusiast | 🤖 Deep Learning Explorer | 🌍 Lifelong Learner  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://sonbori.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](#)
-
 </div>
 
 ---
@@ -48,7 +44,7 @@
 
 ## 🌍 Let's Connect
 - 💻 Portfolio: [sonbori.github.io](https://sonbori.github.io/)  
-- 📧 Email: your@email.com  
+- 📧 Email: thsqhrjs@email.com  
 - 🔗 LinkedIn: [Your LinkedIn](#)
 
 ---
