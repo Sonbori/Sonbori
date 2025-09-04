@@ -1,40 +1,55 @@
 <div align="center">
-  <h3>🍀 Hi 🍀</h3>
-  <p>
-    <a href="https://sonbori.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=GitHub&logoColor=white"/>
-    </a>
-  </p>
-  <p>We are working on a project using various AI technologies such as Python, Python, and TensorFlow.</p>
-  
-  <hr/>
 
-  <h3> I love</h3>
-  <p>🎮 game, 🌍 travel, and topics related to AI, algorithms, and artificial intelligence</p>
-  
-  <hr/>
+# 🍀 Hi, I'm Sonbo 🍀  
+🎮 AI Enthusiast | 🤖 Deep Learning Explorer | 🌍 Lifelong Learner  
 
-  <h3> Tech Stack </h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  </p>
-  
-  <hr/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://sonbori.github.io/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](#)
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sonbori&show_icons=true&theme=tokyonight" alt="Sonbori's GitHub Stats"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonbori&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </p>
 </div>
+
+---
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **AI, Deep Learning, and Computer Vision**
+- 🎮 Interested in **Game AI**, **Algorithms**, and **Neural Networks**
+- 🚀 Future goal: Contribute to **open-source AI projects**  
+- ✨ Always curious about **how intelligence can emerge from code**
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔹 [**Game AI Bot**](#) – Reinforcement Learning 기반 게임 AI 봇  
+- 🔹 [**Image Classifier**](#) – PyTorch로 구현한 이미지 분류기  
+- 🔹 [**AI Portfolio Website**](https://sonbori.github.io/) – 개인 포트폴리오 사이트  
+
+---
+
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonbori&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonbori&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌍 Let's Connect
+- 💻 Portfolio: [sonbori.github.io](https://sonbori.github.io/)  
+- 📧 Email: your@email.com  
+- 🔗 LinkedIn: [Your LinkedIn](#)
+
+---
+✨ *“Code is like magic — but real.”* ✨
